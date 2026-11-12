@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    { "source": "/features", "destination": "/subpages/features.html" },
+    { "source": "/pricing", "destination": "/subpages/pricing.html" },
+    { "source": "/waitlist", "destination": "/subpages/waitlist.html" },
+    { "source": "/contact", "destination": "/subpages/contact.html" },
+    { "source": "/privacy", "destination": "/subpages/privacy.html" },
+    { "source": "/terms", "destination": "/subpages/terms.html" },
+    { "source": "/changelog", "destination": "/subpages/changelog.html" },
+    { "source": "/home-2", "destination": "/subpages/home-2.html" }
+  ]
+}
