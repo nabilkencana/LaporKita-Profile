@@ -1,0 +1,103 @@
+[05:59:29] [info] Source   : https://sortia.framer.website
+[05:59:29] [info] Output   : /Users/nabilkencana/Project /Lomba MAGEITS/framer-sortia
+[05:59:29] [info] Platform : Framer
+[05:59:29] [info] DPR      : 1
+[05:59:29] [info] Subpages : enabled
+[05:59:29] [log] Output directory structure created
+[05:59:29] [log] Fetching SSR HTML from https://sortia.framer.website
+[05:59:29] [ok] SSR HTML fetched (653.7 KB)
+[05:59:29] [log] Launching headless Chromium...
+[05:59:39] [ok] Chromium launched
+[05:59:40] [log] Stealth hardening applied (Chrome 157.0.8103.50)
+[05:59:40] [log] Viewport set to 1440x900 at 1x DPR
+[05:59:40] [log] Blocking 8 tracking domains:
+[05:59:40] [log]   - sentry.io
+[05:59:40] [log]   - www.googletagmanager.com
+[05:59:40] [log]   - connect.facebook.net
+[05:59:40] [log]   - stats.g.doubleclick.net
+[05:59:40] [log]   - google-analytics.com
+[05:59:40] [log]   - events.framer.com
+[05:59:40] [log]   - api.framer.com
+[05:59:40] [log]   - collect.frameranalytics.com
+[05:59:40] [log] Network interception enabled
+[05:59:40] [info] Navigating to https://sortia.framer.website
+[05:59:41] [ok] Document loaded; waiting for page content and resources
+[05:59:41] [log] Intercepted 0 resources, blocked 0 tracking requests, skipped 0 platform assets
+[05:59:41] [log] Checking DOM-based platform detection...
+[05:59:42] [log] Hydration content found: #main
+[05:59:57] [log] Waiting for font layout and response bodies
+[05:59:57] [log] Resources settled
+[05:59:58] [log] Captured HTML and CSSOM (672.7 KB)
+[05:59:58] [ok] Captured 47 network resources total
+[05:59:58] [log]   CSS: 0 | JS: 28 | Images: 15 | Fonts: 1
+[05:59:58] [log] Scanning page for internal links...
+[05:59:58] [log] Found 9 sub-page links on the home page
+[05:59:58] [log]   Navigating to sub-page: https://sortia.framer.website/pricing
+[06:00:00] [log] Hydration content found: #main
+[06:00:06] [log] Waiting for font layout and response bodies
+[06:00:06] [log] Resources settled
+[06:00:07] [log]   Sub-page fetched: 492.2 KB
+[06:00:07] [log]   Saved: subpages/pricing.html
+[06:00:07] [log]   Navigating to sub-page: https://sortia.framer.website/features
+[06:00:08] [log] Hydration content found: #main
+[06:00:13] [log] Waiting for font layout and response bodies
+[06:00:13] [log] Resources settled
+[06:00:13] [log]   Sub-page fetched: 373.1 KB
+[06:00:13] [log]   Saved: subpages/features.html
+[06:00:13] [log]   Navigating to sub-page: https://sortia.framer.website/waitlist
+[06:00:15] [log] Hydration content found: #main
+[06:00:19] [log] Waiting for font layout and response bodies
+[06:00:19] [log] Resources settled
+[06:00:20] [log]   Sub-page fetched: 343.4 KB
+[06:00:20] [log]   Saved: subpages/waitlist.html
+[06:00:20] [log]   Navigating to sub-page: https://sortia.framer.website/contact
+[06:00:22] [log] Hydration content found: #main
+[06:00:29] [log] Waiting for font layout and response bodies
+[06:00:29] [log] Resources settled
+[06:00:29] [log]   Sub-page fetched: 363.4 KB
+[06:00:29] [log]   Saved: subpages/contact.html
+[06:00:29] [log]   Navigating to sub-page: https://sortia.framer.website/privacy
+[06:00:31] [log] Hydration content found: #main
+[06:00:37] [log] Waiting for font layout and response bodies
+[06:00:37] [log] Resources settled
+[06:00:37] [log]   Sub-page fetched: 345.6 KB
+[06:00:37] [log]   Saved: subpages/privacy.html
+[06:00:37] [log]   Navigating to sub-page: https://sortia.framer.website/terms
+[06:00:38] [log] Hydration content found: #main
+[06:00:43] [log] Waiting for font layout and response bodies
+[06:00:43] [log] Resources settled
+[06:00:43] [log]   Sub-page fetched: 346.2 KB
+[06:00:43] [log]   Saved: subpages/terms.html
+[06:00:43] [log]   Navigating to sub-page: https://sortia.framer.website/changelog
+[06:00:44] [log] Hydration content found: #main
+[06:00:51] [log] Waiting for font layout and response bodies
+[06:00:51] [log] Resources settled
+[06:00:51] [log]   Sub-page fetched: 359.4 KB
+[06:00:51] [log]   Saved: subpages/changelog.html
+[06:00:51] [log]   Navigating to sub-page: https://sortia.framer.website/home-2
+[06:00:52] [log] Hydration content found: #main
+[06:01:01] [log] Waiting for font layout and response bodies
+[06:01:01] [log] Resources settled
+[06:01:02] [log]   Sub-page fetched: 687.4 KB
+[06:01:02] [log]   Saved: subpages/home-2.html
+[06:01:02] [log]   Navigating to sub-page: https://sortia.framer.website/404
+[06:01:05] [log]   Skipped https://sortia.framer.website/404: Sub-page returned HTTP 404
+[06:01:05] [ok] Sub-pages crawled: 8
+[06:01:06] [log] Browser closed
+[06:01:06] [ok] Queued 88 resource(s) declared in HTML but never requested
+[06:01:06] [log] Starting download of 176 assets and their CSS/HTML dependencies
+[06:01:10] [ok] Downloads complete: 176 succeeded, 84 from cache
+[06:01:19] [ok] Lazy-loaded chunks resolved: 8
+[06:01:19] [log] Starting HTML post-processing...
+[06:01:19] [log] HTML size: 672.7 KB
+[06:01:19] [ok] Index HTML pipeline complete
+[06:01:26] [log] Rewrote URLs in 21 JS/CSS files
+[06:01:27] [ok] Sub-pages linked to local assets: 8/8
+[06:01:27] [ok] Captured asset URLs rewritten to local paths
+[06:01:46] [ok] Formatted 50/50 JS/MJS files
+[06:01:46] [log] Writing index.html (689.5 KB)...
+[06:01:46] [ok] index.html written
+[06:01:46] [log] serve.js written
+[06:01:46] [log] package.json written for serve.js
+[06:01:46] [ok] Output build complete
+[06:01:46] [ok] Export complete!

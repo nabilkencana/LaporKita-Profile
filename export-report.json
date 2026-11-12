@@ -1,0 +1,13 @@
+{
+  "source": "https://sortia.framer.website/",
+  "platform": "framer",
+  "captureMode": "html-with-runtime",
+  "generatedAt": "2026-11-12T06:01:46.498Z",
+  "assets": 184,
+  "failedAssets": [],
+  "subpages": 8,
+  "visualValidation": "not-run",
+  "limitations": [
+    "Server-side accounts, payments, search and form processing are not exported."
+  ]
+}
