@@ -6,12 +6,12 @@ function t(e, t) {
       { hash: `14ycr47`, mediaQuery: `(min-width: 810px) and (max-width: 1199.98px)` },
       { hash: `xugqfy`, mediaQuery: `(max-width: 809.98px)` },
     ],
-    description: `Showcase your app's best features with the free Sortia Framer template. A complete, responsive design system perfect for highlighting your mobile experience.`,
+    description: `Jelajahi teknologi AI YOLOv11-cls, prediksi risiko banjir XGBoost, navigasi OSRM TTS, dan Command Center Gemini 2.5 Flash pada LaporKita.`,
     elements: {},
     framerSearch: { index: !0 },
     robots: `max-image-preview:large`,
     serializationId: `framer-jZ4I2`,
-    title: `Features | Free Sortia Mobile App Framer Template`,
+    title: `Fitur Platform | LaporKita — MAGEITS 2026`,
     viewport: `width=device-width`,
   };
 }

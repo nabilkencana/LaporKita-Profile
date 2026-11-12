@@ -176,7 +176,7 @@ void main() {
             title: `Colors`,
             control: { type: r.Color },
             maxCount: 8,
-            defaultValue: [`#4AB7FF`, `#FFC680`, `#FF4040`],
+            defaultValue: [`#206C57`, `#24B45E`, `#1D9C51`],
           },
           seed: { type: r.Number, title: `Seed`, defaultValue: 210, min: 0, max: 1e3, step: 1 },
           speed: { type: r.Number, title: `Speed`, defaultValue: 0.3, min: 0, max: 2, step: 0.01 },

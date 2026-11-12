@@ -6,7 +6,7 @@ function t(e, t) {
       { hash: `bfaeqn`, mediaQuery: `(min-width: 810px) and (max-width: 1199.98px)` },
       { hash: `1evxp3m`, mediaQuery: `(max-width: 809.98px)` },
     ],
-    description: `Build your app landing page in hours, not weeks. Sortia is a free, premium-quality Framer template designed specifically for mobile apps.`,
+    description: `Platform pelaporan infrastruktur Kota Malang berbasis AI (YOLOv11, XGBoost, Gemini 2.5 Flash) dan navigasi rute aman bersuara OSRM.`,
     elements: {
       AvLcWS5Lv: `hero`,
       g1rWyl3p_: `testimonials`,
@@ -21,7 +21,7 @@ function t(e, t) {
     framerSearch: { index: !0 },
     robots: `max-image-preview:large`,
     serializationId: `framer-EcaCt`,
-    title: `Sortia | Free Mobile App Landing Page Framer Template`,
+    title: `LaporKita — City Intelligence Platform Kota Malang | MAGEITS 2026`,
     viewport: `width=device-width`,
   };
 }

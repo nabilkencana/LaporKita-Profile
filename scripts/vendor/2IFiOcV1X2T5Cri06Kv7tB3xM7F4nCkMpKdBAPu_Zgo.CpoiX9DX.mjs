@@ -6,11 +6,11 @@ function t(e, t) {
       { hash: `1go5yxe`, mediaQuery: `(min-width: 810px) and (max-width: 1199.98px)` },
       { hash: `d7906r`, mediaQuery: `(max-width: 809.98px)` },
     ],
-    description: `A sleek, professional contact page template included in the Sortia SaaS Framer kit. Perfect for customer support and sales inquiries.`,
+    description: `Hubungi Tim Saya Akan Lawan (SMK Telkom Malang) untuk demo aplikasi, kolaborasi OPD, atau dokumentasi teknis LaporKita MAGEITS 2026.`,
     elements: {},
     robots: `max-image-preview:large`,
     serializationId: `framer-CWU9W`,
-    title: `Contact Us | Sortia Framer Template`,
+    title: `Kontak Tim | LaporKita — MAGEITS 2026`,
     viewport: `width=device-width`,
   };
 }
