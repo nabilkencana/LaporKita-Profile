@@ -110,7 +110,7 @@ var z,
           ? s($e, { ...a, layoutId: r, ref: t, children: i })
           : s(`svg`, { ...a, ref: t, children: i });
       })),
-      (tt = `<svg display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M 11 0 L 8 0 C 5.239 0 3 2.239 3 5 L 3 8 L 0 8 L 0 12 L 3 12 L 3 20 L 7 20 L 7 12 L 10 12 L 11 8 L 7 8 L 7 5 C 7 4.448 7.448 4 8 4 L 11 4 Z" fill="transparent" height="20px" id="F9iMxikzW" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--js9iwy, 2)" stroke="var(--1m973uw, rgb(0,0,0))" transform="translate(7 2)" width="11px"/></svg>`),
+      (tt = `<svg display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 5.5A3.5 3.5 0 0 1 9 2h3v7H9A3.5 3.5 0 0 1 5.5 5.5z" fill="var(--1m973uw, rgb(0,0,0))"/><path d="M12 2h3.5a3.5 3.5 0 1 1 0 7H12V2z" fill="var(--1m973uw, rgb(0,0,0))"/><path d="M12 12.5a3.5 3.5 0 1 1 7 0 3.5 3.5 0 1 1-7 0z" fill="var(--1m973uw, rgb(0,0,0))"/><path d="M5.5 19.5A3.5 3.5 0 0 1 9 16h3v3.5a3.5 3.5 0 1 1-7 0z" fill="var(--1m973uw, rgb(0,0,0))"/><path d="M5.5 12.5A3.5 3.5 0 0 1 9 9h3v7H9a3.5 3.5 0 0 1-3.5-3.5z" fill="var(--1m973uw, rgb(0,0,0))"/></svg>`),
       (nt = ({ color: e, height: t, id: n, width: r, width1: i, ...a }) => ({
         ...a,
         JEeZYcamG: i ?? a.JEeZYcamG ?? 2,
@@ -250,7 +250,7 @@ var z,
           ? s(dt, { ...a, layoutId: r, ref: t, children: i })
           : s(`svg`, { ...a, ref: t, children: i });
       })),
-      (pt = `<svg display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M 5 20 C 2.239 20 0 17.761 0 15 L 0 5 C 0 2.239 2.239 0 5 0 L 15 0 C 17.761 0 20 2.239 20 5 L 20 15 C 20 17.761 17.761 20 15 20 Z" fill="transparent" height="20px" id="WelWVC4aK" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--js9iwy, 2)" stroke="var(--1m973uw, rgb(0,0,0))" transform="translate(2 2)" width="20px"/><path d="M 7.957 3.413 C 8.21 5.12 7.34 6.797 5.798 7.573 C 4.257 8.349 2.392 8.049 1.172 6.829 C -0.049 5.608 -0.349 3.743 0.427 2.202 C 1.203 0.66 2.88 -0.21 4.587 0.043 C 6.33 0.302 7.698 1.67 7.957 3.413 Z" fill="transparent" height="8.000294809864354px" id="Y7WvVc7GI" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--js9iwy, 2)" stroke="var(--1m973uw, rgb(0,0,0))" transform="translate(8.043 7.957)" width="8.000294809864354px"/><path d="M 0 0 L 0.01 0" fill="transparent" height="1px" id="NoAMnmRyg" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--js9iwy, 2)" stroke="var(--1m973uw, rgb(0,0,0))" transform="translate(17.5 6.5)" width="1px"/></svg>`),
+      (pt = `<svg display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.53 1.032 1.53 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z" fill="var(--1m973uw, rgb(0,0,0))"/></svg>`),
       (mt = ({ color: e, height: t, id: n, width: r, width1: i, ...a }) => ({
         ...a,
         JEeZYcamG: i ?? a.JEeZYcamG ?? 2,
@@ -1321,7 +1321,7 @@ e(() => {
                                   }),
                                 }),
                                 s(D, {
-                                  href: `https://github.com/nabilkencana/laporkita`,
+                                  href: `https://github.com/elzidanee/laporkita`,
                                   motionChild: !0,
                                   nodeId: `bIXdYVQHK`,
                                   openInNewTab: !0,
@@ -1416,7 +1416,7 @@ e(() => {
                                                 style: {
                                                   "--framer-text-color": `var(--token-eb45b186-5b86-43ee-bc99-db8d872fd668, rgb(62, 74, 68))`,
                                                 },
-                                                children: `nabilkencana/laporkita`,
+                                                children: `elzidanee/laporkita`,
                                               }),
                                             }),
                                             className: `framer-x5ov6`,
@@ -1430,7 +1430,7 @@ e(() => {
                                   }),
                                 }),
                                 s(D, {
-                                  href: `https://www.figma.com/design/ltkTxTn0JkruiR1z5GYswU/Lapor-Kita`,
+                                  href: `https://www.figma.com/design/ltkTxTn0JkruiR1z5GYswU/Lapor-Kita?node-id=791-2&t=HwD1796KK90RdqGv-1`,
                                   motionChild: !0,
                                   nodeId: `O7RcvmM8E`,
                                   openInNewTab: !0,

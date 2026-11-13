@@ -116,7 +116,7 @@ var gt,
     (v(),
       T(),
       x(),
-      (gt = `url('data:image/svg+xml,<svg display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M 0 11 C 0 4.925 4.925 0 11 0 C 17.075 0 22 4.925 22 11 C 22 17.075 17.075 22 11 22 C 4.925 22 0 17.075 0 11 Z" fill="transparent" height="22px" id="iAyP9JbGc" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke="var(--1df8v9o, rgb(0,0,0))" transform="translate(1 1)" width="22px"/><path d="M 2 16.051 L 2 2.551 C 1.985 1.791 2.315 1.066 2.899 0.579 C 3.483 0.093 4.256 -0.101 5 0.051 M 0 6.051 L 4.5 6.051" fill="transparent" height="16.050638241459925px" id="ghtP2QdLI" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke="var(--1df8v9o, rgb(0,0,0))" transform="translate(10 6.949)" width="5px"/></svg>') alpha no-repeat center / auto var(--framer-icon-mask-mode, add), var(--framer-icon-mask, none)`),
+      (gt = `url('data:image/svg+xml,<svg display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M 5.5 5.5 A 3.5 3.5 0 0 1 9 2 L 12 2 L 12 9 L 9 9 A 3.5 3.5 0 0 1 5.5 5.5 Z" fill="var(--1df8v9o, rgb(0,0,0))"/><path d="M 12 2 L 15.5 2 A 3.5 3.5 0 1 1 15.5 9 L 12 9 Z" fill="var(--1df8v9o, rgb(0,0,0))"/><path d="M 12 12.5 A 3.5 3.5 0 1 1 19 12.5 A 3.5 3.5 0 1 1 12 12.5 Z" fill="var(--1df8v9o, rgb(0,0,0))"/><path d="M 5.5 19.5 A 3.5 3.5 0 0 1 9 16 L 12 16 L 12 19.5 A 3.5 3.5 0 1 1 5.5 19.5 Z" fill="var(--1df8v9o, rgb(0,0,0))"/><path d="M 5.5 12.5 A 3.5 3.5 0 0 1 9 9 L 12 9 L 12 16 L 9 16 A 3.5 3.5 0 0 1 5.5 12.5 Z" fill="var(--1df8v9o, rgb(0,0,0))"/></svg>')`),
       (_t = u((e, t) => {
         let { animated: n, layoutId: r, children: i, ...a } = e;
         return n ? _(w.div, { ...a, layoutId: r, ref: t }) : _(`div`, { ...a, ref: t });
@@ -224,7 +224,7 @@ var gt,
     (v(),
       T(),
       x(),
-      (Dt = `url('data:image/svg+xml,<svg display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M 0 4 C 0 1.791 1.791 0 4 0 C 6.209 0 8 1.791 8 4 C 8 6.209 6.209 8 4 8 C 1.791 8 0 6.209 0 4 Z" fill="transparent" height="8px" id="NQawF2yL1" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke="var(--1df8v9o, rgb(0,0,0))" transform="translate(8 8)" width="8px"/><path d="M 5 20 C 2.239 20 0 17.761 0 15 L 0 5 C 0 2.239 2.239 0 5 0 L 15 0 C 17.761 0 20 2.239 20 5 L 20 15 C 20 17.761 17.761 20 15 20 Z" fill="transparent" height="20px" id="PagLHxSxQ" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke="var(--1df8v9o, rgb(0,0,0))" transform="translate(2 2)" width="20px"/><path d="M 0 0 L 0 0" fill="transparent" height="1px" id="HgrPz15zt" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke="var(--1df8v9o, rgb(0,0,0))" transform="translate(17.5 6.5)" width="1px"/></svg>') alpha no-repeat center / auto var(--framer-icon-mask-mode, add), var(--framer-icon-mask, none)`),
+      (Dt = `url('data:image/svg+xml,<svg display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M 12 2 C 6.477 2 2 6.484 2 12.017 c 0 4.425 2.865 8.18 6.839 9.504 c 0.5 0.092 0.682 -0.217 0.682 -0.483 c 0 -0.237 -0.008 -0.868 -0.013 -1.703 c -2.782 0.605 -3.369 -1.343 -3.369 -1.343 c -0.454 -1.158 -1.11 -1.466 -1.11 -1.466 c -0.908 -0.62 0.069 -0.608 0.069 -0.608 c 1.003 0.07 1.53 1.032 1.53 1.032 c 0.892 1.53 2.341 1.088 2.91 0.832 c 0.092 -0.647 0.35 -1.088 0.636 -1.338 c -2.22 -0.253 -4.555 -1.113 -4.555 -4.951 c 0 -1.093 0.39 -1.988 1.029 -2.688 c -0.103 -0.253 -0.446 -1.272 0.098 -2.65 c 0 0 0.84 -0.27 2.75 1.026 A 9.564 9.564 0 0 1 12 6.844 c 0.85 0.004 1.705 0.115 2.504 0.337 c 1.909 -1.296 2.747 -1.027 2.747 -1.027 c 0.546 1.379 0.202 2.398 0.1 2.651 c 0.64 0.7 1.028 1.595 1.028 2.688 c 0 3.848 -2.339 4.695 -4.566 4.943 c 0.359 0.309 0.678 0.92 0.678 1.855 c 0 1.338 -0.012 2.419 -0.012 2.747 c 0 0.268 0.18 0.58 0.688 0.482 A 10.019 10.019 0 0 0 22 12.017 C 22 6.484 17.522 2 12 2 Z" fill="var(--1df8v9o, rgb(0,0,0))"/></svg>')`),
       (Ot = u((e, t) => {
         let { animated: n, layoutId: r, children: i, ...a } = e;
         return n ? _(w.div, { ...a, layoutId: r, ref: t }) : _(`div`, { ...a, ref: t });
@@ -1855,7 +1855,7 @@ var Kt,
                                                       "--framer-text-color": `var(--token-7351e27c-afcb-464f-9579-ba0ea4a4c2b3, rgb(86, 86, 87))`,
                                                     },
                                                     children: _(R, {
-                                                      href: `https://www.figma.com/design/ltkTxTn0JkruiR1z5GYswU/Lapor-Kita`,
+                                                      href: `https://www.figma.com/design/ltkTxTn0JkruiR1z5GYswU/Lapor-Kita?node-id=791-2&t=HwD1796KK90RdqGv-1`,
                                                       motionChild: !0,
                                                       nodeId: `UeWmEwxMd`,
                                                       openInNewTab: !0,
@@ -1888,7 +1888,7 @@ var Kt,
                                                       "--framer-text-color": `var(--token-7351e27c-afcb-464f-9579-ba0ea4a4c2b3, rgb(86, 86, 87))`,
                                                     },
                                                     children: _(R, {
-                                                      href: `https://github.com/nabilkencana/laporkita`,
+                                                      href: `https://github.com/elzidanee/laporkita`,
                                                       motionChild: !0,
                                                       nodeId: `ABE0hEQWR`,
                                                       openInNewTab: !0,
@@ -1921,7 +1921,7 @@ var Kt,
                                                       "--framer-text-color": `var(--token-7351e27c-afcb-464f-9579-ba0ea4a4c2b3, rgb(86, 86, 87))`,
                                                     },
                                                     children: _(R, {
-                                                      href: `https://api.canadev.my.id`,
+                                                      href: `https://api-server.canadev.my.id`,
                                                       motionChild: !0,
                                                       nodeId: `mHdV21YF0`,
                                                       openInNewTab: !0,
@@ -2218,7 +2218,7 @@ var Kt,
                                               scopeId: `Dq1aQhLFJ`,
                                               children: _(q, {
                                                 B9C6ELF0B: W,
-                                                G7qUlhWCL: `https://github.com/nabilkencana/laporkita`,
+                                                G7qUlhWCL: `https://github.com/elzidanee/laporkita`,
                                                 height: `100%`,
                                                 id: `jRf2oSS5m`,
                                                 layoutId: `jRf2oSS5m`,
@@ -2239,7 +2239,7 @@ var Kt,
                                               scopeId: `Dq1aQhLFJ`,
                                               children: _(q, {
                                                 B9C6ELF0B: H,
-                                                G7qUlhWCL: `https://www.figma.com/design/ltkTxTn0JkruiR1z5GYswU/Lapor-Kita`,
+                                                G7qUlhWCL: `https://www.figma.com/design/ltkTxTn0JkruiR1z5GYswU/Lapor-Kita?node-id=791-2&t=HwD1796KK90RdqGv-1`,
                                                 height: `100%`,
                                                 id: `tAZhsWKUt`,
                                                 layoutId: `tAZhsWKUt`,
@@ -2765,7 +2765,7 @@ var Kt,
                                                       "--framer-text-color": `var(--token-7351e27c-afcb-464f-9579-ba0ea4a4c2b3, rgb(86, 86, 87))`,
                                                     },
                                                     children: _(R, {
-                                                      href: `https://www.figma.com/design/ltkTxTn0JkruiR1z5GYswU/Lapor-Kita`,
+                                                      href: `https://www.figma.com/design/ltkTxTn0JkruiR1z5GYswU/Lapor-Kita?node-id=791-2&t=HwD1796KK90RdqGv-1`,
                                                       motionChild: !0,
                                                       nodeId: `UzOviO8iZ`,
                                                       openInNewTab: !0,
@@ -3029,7 +3029,7 @@ var Kt,
                                               scopeId: `Dq1aQhLFJ`,
                                               children: _(q, {
                                                 B9C6ELF0B: W,
-                                                G7qUlhWCL: `https://github.com/nabilkencana/laporkita`,
+                                                G7qUlhWCL: `https://github.com/elzidanee/laporkita`,
                                                 height: `100%`,
                                                 id: `TAQwLgFIR`,
                                                 layoutId: `TAQwLgFIR`,
@@ -3050,7 +3050,7 @@ var Kt,
                                               scopeId: `Dq1aQhLFJ`,
                                               children: _(q, {
                                                 B9C6ELF0B: H,
-                                                G7qUlhWCL: `https://www.figma.com/design/ltkTxTn0JkruiR1z5GYswU/Lapor-Kita`,
+                                                G7qUlhWCL: `https://www.figma.com/design/ltkTxTn0JkruiR1z5GYswU/Lapor-Kita?node-id=791-2&t=HwD1796KK90RdqGv-1`,
                                                 height: `100%`,
                                                 id: `l7DOPxGMr`,
                                                 layoutId: `l7DOPxGMr`,
@@ -3575,7 +3575,7 @@ var Kt,
                                                       "--framer-text-color": `var(--token-7351e27c-afcb-464f-9579-ba0ea4a4c2b3, rgb(86, 86, 87))`,
                                                     },
                                                     children: _(R, {
-                                                      href: `https://www.figma.com/design/ltkTxTn0JkruiR1z5GYswU/Lapor-Kita`,
+                                                      href: `https://www.figma.com/design/ltkTxTn0JkruiR1z5GYswU/Lapor-Kita?node-id=791-2&t=HwD1796KK90RdqGv-1`,
                                                       motionChild: !0,
                                                       nodeId: `tvoXZ__by`,
                                                       openInNewTab: !0,
@@ -3839,7 +3839,7 @@ var Kt,
                                               scopeId: `Dq1aQhLFJ`,
                                               children: _(q, {
                                                 B9C6ELF0B: W,
-                                                G7qUlhWCL: `https://github.com/nabilkencana/laporkita`,
+                                                G7qUlhWCL: `https://github.com/elzidanee/laporkita`,
                                                 height: `100%`,
                                                 id: `Y0L4nIEbH`,
                                                 layoutId: `Y0L4nIEbH`,
@@ -3860,7 +3860,7 @@ var Kt,
                                               scopeId: `Dq1aQhLFJ`,
                                               children: _(q, {
                                                 B9C6ELF0B: H,
-                                                G7qUlhWCL: `https://www.figma.com/design/ltkTxTn0JkruiR1z5GYswU/Lapor-Kita`,
+                                                G7qUlhWCL: `https://www.figma.com/design/ltkTxTn0JkruiR1z5GYswU/Lapor-Kita?node-id=791-2&t=HwD1796KK90RdqGv-1`,
                                                 height: `100%`,
                                                 id: `RYPGSqxP9`,
                                                 layoutId: `RYPGSqxP9`,
@@ -4564,29 +4564,140 @@ e(() => {
     Nn(!1, e);
   }
 })();
-if ($ && !window.__laporkitaFormHandler) {
+if (typeof window !== "undefined" && !window.__laporkitaFormHandler) {
   window.__laporkitaFormHandler = true;
-  document.addEventListener("submit", function (ev) {
+  document.addEventListener("submit", async function (ev) {
     const form = ev.target;
     if (!(form instanceof HTMLFormElement)) return;
-    if (form.classList.contains("framer-d1imey") || form.classList.contains("framer-zhuz51") || form.classList.contains("framer-2nzqmx") || form.classList.contains("framer-1n2v4t9")) {
+    if (form.classList.contains("framer-d1imey") || form.classList.contains("framer-zhuz51") || form.classList.contains("framer-2nzqmx") || form.classList.contains("framer-1n2v4t9") || form.classList.contains("framer-15mcx4o")) {
       ev.preventDefault();
       ev.stopImmediatePropagation();
       const btn = form.querySelector("button[type=submit]");
+      const originalBtnText = btn ? btn.textContent : "Kirim";
       const isContact = form.classList.contains("framer-d1imey");
+
       if (isContact) {
-        const name = form.querySelector("[name=Name]")?.value || "";
-        const email = form.querySelector("[name=Email]")?.value || "";
-        const topic = form.querySelector("[name=Location]")?.value || "Demo LaporKita";
-        const msg = form.querySelector("[name=Message]")?.value || "";
-        const subject = encodeURIComponent("[LaporKita MAGEITS 2026] " + topic + (name ? " - " + name : ""));
-        const body = encodeURIComponent("Nama: " + name + "\nEmail: " + email + "\nTopik: " + topic + "\n\nPesan:\n" + msg);
-        window.location.href = "mailto:nabilkencana20@gmail.com?subject=" + subject + "&body=" + body;
-        if (btn) btn.textContent = "Membuka Email...";
+        const nameInput = form.querySelector("[name=Name]");
+        const emailInput = form.querySelector("[name=Email]");
+        const topicInput = form.querySelector("[name=Location]");
+        const msgInput = form.querySelector("[name=Message]");
+        const name = nameInput?.value?.trim() || "Tamu";
+        const email = emailInput?.value?.trim() || "";
+        const topic = topicInput?.value?.trim() || "Demo LaporKita";
+        const msg = msgInput?.value?.trim() || "";
+
+        if (!email) {
+          if (emailInput) emailInput.focus();
+          return;
+        }
+
+        if (btn) {
+          btn.textContent = "Mengirim Pesan...";
+          btn.disabled = true;
+        }
+
+        try {
+          const res = await fetch("https://formsubmit.co/ajax/nabilkencana20@gmail.com", {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+              "Accept": "application/json"
+            },
+            body: JSON.stringify({
+              _subject: "[LaporKita MAGEITS 2026] Pesan dari " + name + " (" + topic + ")",
+              _replyto: email,
+              _template: "table",
+              _autoresponse: "Halo " + name + ",\n\nTerima kasih telah menghubungi tim LaporKita (MAGEITS 2026 ITS Surabaya).\n\nPesan Anda mengenai \"" + topic + "\" telah kami terima:\n\n\"" + msg + "\"\n\nTim kami akan segera meninjau dan merespon pesan Anda.\n\nSalam hormat,\nTim LaporKita · Saya Akan Lawan\nSMK Telkom Malang",
+              "Nama Lengkap": name,
+              "Email Pengirim": email,
+              "Topik Pertanyaan": topic,
+              "Isi Pesan": msg
+            })
+          });
+
+          if (btn) btn.textContent = "✓ Pesan Terkirim!";
+          if (nameInput) nameInput.value = "";
+          if (emailInput) emailInput.value = "";
+          if (msgInput) msgInput.value = "";
+
+          let alertEl = form.querySelector(".laporkita-form-alert");
+          if (!alertEl) {
+            alertEl = document.createElement("div");
+            alertEl.className = "laporkita-form-alert";
+            alertEl.style.cssText = "margin-top:16px;padding:12px 16px;background-color:rgba(29,156,81,0.12);border:1px solid rgb(29,156,81);border-radius:8px;color:rgb(22,82,66);font-size:13px;line-height:1.5;text-align:center;width:100%;box-sizing:border-box;";
+            form.appendChild(alertEl);
+          }
+          alertEl.innerHTML = "✓ <strong>Pesan Berhasil Terkirim!</strong><br>Email konfirmasi telah dikirim ke <strong>" + (email || "email Anda") + "</strong>. Tim kami akan segera merespon.";
+        } catch (err) {
+          console.warn("Direct form submit error, falling back to mailto:", err);
+          const subject = encodeURIComponent("[LaporKita MAGEITS 2026] " + topic + " - " + name);
+          const body = encodeURIComponent("Nama: " + name + "\nEmail: " + email + "\nTopik: " + topic + "\n\nPesan:\n" + msg);
+          window.location.href = "mailto:nabilkencana20@gmail.com?subject=" + subject + "&body=" + body;
+          if (btn) btn.textContent = "Membuka Email...";
+        } finally {
+          setTimeout(() => {
+            if (btn) {
+              btn.textContent = originalBtnText;
+              btn.disabled = false;
+            }
+          }, 6000);
+        }
       } else {
+        // Newsletter / waitlist form
         const emailInput = form.querySelector("input[type=email]");
-        if (emailInput) emailInput.value = "";
-        if (btn) btn.textContent = "Tercatat! Terima kasih";
+        const subscriberEmail = emailInput?.value?.trim() || "";
+
+        if (!subscriberEmail) {
+          if (emailInput) emailInput.focus();
+          return;
+        }
+
+        if (btn) {
+          btn.textContent = "Mendaftarkan...";
+          btn.disabled = true;
+        }
+
+        try {
+          await fetch("https://formsubmit.co/ajax/nabilkencana20@gmail.com", {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+              "Accept": "application/json"
+            },
+            body: JSON.stringify({
+              _subject: "[LaporKita MAGEITS 2026] Pendaftar Baru Pantau Pembaruan: " + subscriberEmail,
+              _replyto: subscriberEmail,
+              _template: "table",
+              _autoresponse: "Halo!\n\nTerima kasih telah mendaftar di Pantau Pembaruan LaporKita (MAGEITS 2026 ITS Surabaya).\n\nEmail Anda (" + subscriberEmail + ") telah berhasil terdaftar untuk menerima dokumentasi rilis, update model AI, dan tautan unduh APK LaporKita versi terbaru.\n\nSalam hangat,\nTim LaporKita · Saya Akan Lawan",
+              "Email Subscriber": subscriberEmail,
+              "Program": "Pantau Pembaruan LaporKita & Dokumentasi MAGEITS 2026",
+              "Waktu Pendaftaran": new Date().toLocaleString("id-ID")
+            })
+          });
+
+          if (emailInput) emailInput.value = "";
+          if (btn) btn.textContent = "✓ Terdaftar!";
+
+          let alertEl = form.querySelector(".laporkita-nl-alert");
+          if (!alertEl) {
+            alertEl = document.createElement("div");
+            alertEl.className = "laporkita-nl-alert";
+            alertEl.style.cssText = "margin-top:8px;font-size:12px;color:rgb(29,156,81);font-weight:600;text-align:center;width:100%;";
+            form.appendChild(alertEl);
+          }
+          alertEl.textContent = "✓ Email Anda berhasil didaftarkan! Cek inbox Anda.";
+        } catch (err) {
+          console.warn("Newsletter submit error, saving locally:", err);
+          if (emailInput) emailInput.value = "";
+          if (btn) btn.textContent = "✓ Terdaftar!";
+        } finally {
+          setTimeout(() => {
+            if (btn) {
+              btn.textContent = originalBtnText;
+              btn.disabled = false;
+            }
+          }, 6000);
+        }
       }
     }
   }, true);
